@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946187545500",
+    "project_id": "trash-truck-tracker-34e9d",
+    "storage_bucket": "trash-truck-tracker-34e9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946187545500:android:c5eec2b84c823a1eceb659",
+        "android_client_info": {
+          "package_name": "com.saif.trashtrucktracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946187545500-0h4ksqofkv2bsapj3ekoovdgcmjflut0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saif.trashtrucktracker",
+            "certificate_hash": "bea6eb0ed5f8871f51db047b9534bf0e43c9ca7b"
+          }
+        },
+        {
+          "client_id": "946187545500-1v8pv2unj26jdnrcu1dj7dcuu3e2d35g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy2vKKv5qVk-9JmT8Bpmsub7BICNyNpPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946187545500-1v8pv2unj26jdnrcu1dj7dcuu3e2d35g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

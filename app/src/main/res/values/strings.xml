@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trash Truck Tracker</string>
+    <string name="title_activity_driver_map">DriverMapActivity</string>
+    <string name="title_activity_user_map">UserMapActivity</string>
+</resources>

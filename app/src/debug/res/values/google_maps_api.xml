@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=BE:A6:EB:0E:D5:F8:87:1F:51:DB:04:7B:95:34:BF:0E:43:C9:CA:7B%3Bcom.saif.trashtrucktracker
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.saif.trashtrucktracker
+
+    SHA-1 certificate fingerprint:
+    BE:A6:EB:0E:D5:F8:87:1F:51:DB:04:7B:95:34:BF:0E:43:C9:CA:7B
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDd3Mb9Sl2BZLAIp3wzasZzU8K7k2JIbrE</string>
+</resources>
